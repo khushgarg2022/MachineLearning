@@ -2,9 +2,10 @@
 
 ## Project Description:
 
-- Extracted the data from UCV Machine Learning Repository which contained the blood test results and demographic information of around 600 blood donors.
-- Deployed Naive Baiyes Classifier as the baseline model and compared results obtained using Multiclass Logistic Regression and Random Forest
-- Achieved the lowest misclassification rate of 0.04 and highest accuracy in predicting whether a blood donor is a Hepatitis C patient or not using a random forest model
+- Extracted the patient data from UCV Machine Learning Repository which contained the blood test results and demographic information of around 600 blood donors.
+- Deployed supervised machine learning algorithms such as Naive Bayes Classifier, Multiclass Logistic Regression, and Random Forest to accurately predict
+  whether a blood donor is a Hepatitis C patient or not.
+- Compared the performance for every model and achieved the lowest misclassification rate of 0.04 and the highest accuracy rate of 98.7% using a Random Forest model
 
 
 ## Skills:
