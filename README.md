@@ -7,6 +7,7 @@
   whether a blood donor is a Hepatitis C patient or not.
 - Compared the performance for every model and achieved the lowest misclassification rate of 0.04 and the highest accuracy rate of 98.7% using a Random Forest model
 
+## Technologies Used: R Programming Language
 
 ## Skills:
 1. Data Extraction
